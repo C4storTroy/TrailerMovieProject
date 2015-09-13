@@ -37,7 +37,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #db2020;
             cursor: pointer;
         }
         .scale-media {
